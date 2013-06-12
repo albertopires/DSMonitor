@@ -6,7 +6,7 @@
  <servlet>
   <display-name>DSMonitor</display-name>
   <servlet-name>DSMonitor</servlet-name>
-  <servlet-class>br.ufjf.infra.dsmonitor.DSMonitor</servlet-class>
+  <servlet-class>music.penguin.dsmonitor.DSMonitor</servlet-class>
  </servlet>
  <servlet-mapping>
   <servlet-name>DSMonitor</servlet-name>
