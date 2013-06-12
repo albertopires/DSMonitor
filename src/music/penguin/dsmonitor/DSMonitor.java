@@ -54,7 +54,7 @@ public class DSMonitor extends HttpServlet {
 			out.println("<link rel=\"stylesheet\" type=\"text/css\" href=\"dsmonitor.css\" />");
 			out.println("</head>");
 			out.println("<body>");
-			out.println("<h1>Servlet DSMonitor (2011091501) at " + request.getContextPath()
+			out.println("<h1>Servlet DSMonitor (2013061201) at " + request.getContextPath()
 					+ "</h1>");
 			out.println("<pre>");
 			out.println("" + new Date());
